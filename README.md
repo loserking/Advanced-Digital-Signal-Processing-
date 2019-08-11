@@ -1,1 +1,4 @@
-# Advanced-Digital-Signal-Processing-
+# Advanced-Digital-Signal-Processing
+加強同學關於數位信號處理以及多個相關子領域的基礎知識。 
+有別於大學以前的課程只是訓練同學的記憶和計算能力，這門課程將著重於培養同學分析一個方法的優點、缺點、物理意義、可能的應用的能力，並鼓勵同學做創意思考 
+課程要求	
